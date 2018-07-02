@@ -25,3 +25,14 @@ input {
 textarea {
   border-color: blue orange blue orange;
 }
+
+.main_section {
+  text-align: center;
+  font-family: 'Bad Script', cursive;
+  clear: both;
+  margin-top: 5%;
+}
+
+.main_section--img {
+  width: 25%;
+}
